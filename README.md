@@ -1,2 +1,2 @@
 # AgenticAI-NewsPrompt
-This project involves building a Natural Language Processing (NLP) pipeline using BBC News articles in Google Colab. It includes sentiment analysis, topic modeling, information retrieval, and a Retrieval-Augmented Generation (RAG) system. 
+This project involves building a Natural Language Processing (NLP) pipeline using BBC News articles in Google Colab. It includes sentiment analysis, topic modeling, information retrieval, and a Retrieval-Augmented Generation (RAG) system. The user can then input a prompt in which they will ask a related question regarding the fetched news articles, the model will then retrieve relevant information and afterwards, the user can check the performance metrics and measure the accuracy.
